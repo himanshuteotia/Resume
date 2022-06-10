@@ -82,7 +82,7 @@ Hi, I am **Himanshu Teotia**
 **Challenges faced:**
 
 - Can not add forms or other dynamic things on Facebook messenger and other cloud messaging platforms.
-- ` `We don’t want to save our private data on cloud platforms.
+- We don’t want to save our private data on cloud platforms.
 
 **Responsibilities:**
 
