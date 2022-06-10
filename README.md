@@ -1,6 +1,6 @@
-Hi, I am **HIMANSHU TEOTIA**
+Hi, I am **Himanshu Teotia**
 
-**Mobile No: +91-9911012064**
+**Mobile No**: +91-9911012064
 
 **Email: himanshuteotia7@gmail.com**
 
