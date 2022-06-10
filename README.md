@@ -21,16 +21,16 @@ Hi, I am **Himanshu Teotia**
 
 **EDUCATION**
 
-- B.Tech. In ‘**Information Technology**’ From Radha Govind Group of Institutions, Meerut affiliated to U.P.T.U\*\* Lucknow, with 68% in 2013.
-- **10+2** from **‘SCA Memorial Sr. Sec. Public School, Bulandshahr’** from CBSE Board**.**
-- **10th** from **‘SCA Memorial Sr. Sec. Public School,** **Bulandshahr’** from CBSE Board**.**
+- B.Tech. in **'Information Technology'** From Radha Govind Group of Institutions, Meerut affiliated to U.P.T.U Lucknow, with 68% in 2013.
+- **10+2** from **'SCA Memorial Sr. Sec. Public School, Bulandshahr'** from CBSE Board.
+- **10th** from **'SCA Memorial Sr. Sec. Public School,Bulandshahr'** from CBSE Board.
 
 **WORK EXPERIENCE**
 
 - As a SENIOR BACKEND DEVELOPER, I am currently working with WebuildBots (<https://www.wbb.ai/>).
 - Previously worked with **Symprio, Malaysia** ([https://www.symprio.com](https://www.symprio.com/chatbot)) as a **CHATBOT DEVELOPMENT LEAD**.
 - **Daffodil Software Ltd.** (<https://www.daffodilsw.com/>) as a **FULL STACK DEVELOPER**.
-- **GFN D’Selva InfoTech Pvt. Ltd**. (<http://www.dselva.co.in/>) as a **WEB DESIGNER**.
+- **GFN D'Selva InfoTech Pvt. Ltd**. (<http://www.dselva.co.in/>) as a **WEB DESIGNER**.
 
 **RECENT KEY PROJECTS**
 
