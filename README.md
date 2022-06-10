@@ -10,7 +10,6 @@ Hi, I am **Himanshu Teotia**
 
 **Stackoverflow**: [https://stackoverflow.com/users/5031009/himanshu-teotia](https://stackoverflow.com/users/5031009/himanshu-teotia)
 
-![](Aspose.Words.7330e55c-17a5-424f-8ae1-c376fb1e0ede.001.png)
 
 **SUMMARY**
 
@@ -145,17 +144,7 @@ Picture Editing, Blogging, Playing Cricket, Watching Sci-Fi and Fictional movies
 
 **FATHER’S NAME** Mr. Ravindra Singh Teotia
 
-**D.O.B\*\*** 28th April 1991
+**D.O.B*** 28th April 1991
 
 **LANGUAGE KNOWN:** English, Hindi
-
-**DECLARATION:**
-
-I hereby declare that the information mentioned above is correct to my knowledge, and I bear the responsibility for the correctness of the particulars mentioned above.
-
-**PLACE:** **(HIMANSHU TEOTIA)**
-
-Bulandshahr, UP
-
-India
 
