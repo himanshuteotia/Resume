@@ -6,9 +6,9 @@ Hi, I am **HIMANSHU TEOTIA**
 
 **Github: https://github.com/himanshuteotia**
 
-**LinkedIn: [https://www.linkedin.com/in/himanshuteotia**](https://www.linkedin.com/in/himanshuteotia)\*\*
+**LinkedIn**: [https://www.linkedin.com/in/himanshuteotia](https://www.linkedin.com/in/himanshuteotia)
 
-**Stackoverflow: [https://stackoverflow.com/users/5031009/himanshu-teotia**](https://stackoverflow.com/users/5031009/himanshu-teotia)\*\*
+**Stackoverflow**: [https://stackoverflow.com/users/5031009/himanshu-teotia](https://stackoverflow.com/users/5031009/himanshu-teotia)
 
 ![](Aspose.Words.7330e55c-17a5-424f-8ae1-c376fb1e0ede.001.png)
 
