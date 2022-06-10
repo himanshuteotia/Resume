@@ -40,7 +40,7 @@ Hi, I am **Himanshu Teotia**
 
 **Link**: <https://www.wbb.ai/>
 
-**Technologies:\*\*** Javascript ( NodeJS, TypeScript )
+**Technologies:*** Javascript ( NodeJS, TypeScript )
 
 **Responsibilities:**
 
