@@ -2,9 +2,9 @@ Hi, I am **Himanshu Teotia**
 
 **Mobile No**: +91-9911012064
 
-**Email: himanshuteotia7@gmail.com**
+**Email**: himanshuteotia7@gmail.com / email@himanshu-resume.tech
 
-**Github: https://github.com/himanshuteotia**
+**Github**: [github.com/himanshuteotia](https://www.github.com/himanshuteotia)
 
 **LinkedIn**: [https://www.linkedin.com/in/himanshuteotia](https://www.linkedin.com/in/himanshuteotia)
 
@@ -80,7 +80,7 @@ Hi, I am **Himanshu Teotia**
 
 **Description:** The project was made for the Employee's Provident Fund (EPF) to improve customer service. The bot had integrated with a mixed language (English & Malay) support facility. It has a multi-talented AI chatbot that can train itself. However, I have faced many challenges with these frameworks.
 
-**Few Challenges:**
+**Challenges faced:**
 
 - Can not add forms or other dynamic things on Facebook messenger and other cloud messaging platforms.
 - ` `We don’t want to save our private data on cloud platforms.
