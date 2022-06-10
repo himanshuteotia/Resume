@@ -28,8 +28,8 @@ Hi, I am **Himanshu Teotia**
 **WORK EXPERIENCE**
 
 - As a SENIOR BACKEND DEVELOPER, I am currently working with WebuildBots (<https://www.wbb.ai/>).
-- Previously worked with **Symprio, Malaysia** ([https://www.symprio.com](https://www.symprio.com/chatbot))** as a **CHATBOT DEVELOPMENT LEAD\*\*.
-- **Daffodil Software Ltd.** (<https://www.daffodilsw.com/>)** as a **FULL STACK DEVELOPER\*\*.
+- Previously worked with **Symprio, Malaysia** ([https://www.symprio.com](https://www.symprio.com/chatbot)) as a **CHATBOT DEVELOPMENT LEAD**.
+- **Daffodil Software Ltd.** (<https://www.daffodilsw.com/>) as a **FULL STACK DEVELOPER**.
 - **GFN D’Selva InfoTech Pvt. Ltd**. (<http://www.dselva.co.in/>) as a **WEB DESIGNER**.
 
 **RECENT KEY PROJECTS**
