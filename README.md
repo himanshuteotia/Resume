@@ -1,4 +1,4 @@
-Hi, I am **Himanshu Teotia** [PDF of resume](https://github.com/himanshuteotia/Resume/files/8881044/Himanshu_teotia_resume.1.pdf)
+Hi, I am **Himanshu Teotia**  ([PDF of resume](https://github.com/himanshuteotia/Resume/files/8881044/Himanshu_teotia_resume.1.pdf))
 
 
 **Mobile No**: +91-9911012064
