@@ -3,7 +3,7 @@ Hi, I am **Himanshu Teotia**  ([PDF of resume](https://github.com/himanshuteotia
 
 **Mobile No**: +91-9911012064
 
-**Email**: [himanshuteotia7@gmail.com]() / [email@himanshu-resume.tech]()
+**Email**: [himanshuteotia7@gmail.com](mailto:himanshuteotia7@gmail.com?subject=[Website]%20Resume%20Enquiry) / [email@himanshu-resume.tech](mailto:email@himanshu-resume.tech?subject=[Website]%20Resume%20Enquiry)
 
 **Github**: [github.com/himanshuteotia](https://www.github.com/himanshuteotia)
 
